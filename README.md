@@ -3,9 +3,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianMLand&layout=compact&langs_count=4&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## Education
-<img src="https://my.tacomacc.edu/cas/images/TCCcolor.png" alt="Tacoma Community College" height="50px" style="background:white; padding:5px; box-sizing: border-box;"/><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Coding_Dojo.png" alt="Coding Dojo" height="50px" />
-
 ## Some Technologies I've used
 ### Languages
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
